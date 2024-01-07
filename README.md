@@ -1,6 +1,6 @@
 # Gerando Relatórios PDF via Excel
 
-Neste projeto, foi criado uma automação, desde o processamento inicial dos dados até a formatação final e geração do PDF. O processo foi gerado com a biblioteca pandas, realizada a exploração de como transformar esses dados em tabelas HTML atraentes utilizando templates de Jinja e estilização CSS, e a transformação do HTML em PDF na combiná-lo com layouts customizados.
+Neste projeto, foi criado uma automação, desde o processamento inicial dos dados até a formatação final e geração do PDF. O processo foi gerado com a biblioteca pandas, realizada a exploração de como transformar esses dados em tabelas HTML atraentes utilizando templates de Jinja e estilização CSS, e a transformação do HTML em PDF para combiná-lo com layouts customizados.
 
 ### Fluxo:
 
