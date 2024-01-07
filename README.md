@@ -6,4 +6,4 @@ Neste projeto, foi criado uma automação, desde o processamento inicial dos dad
 
 Começamos com a planilha de Excel, utilizando a biblioteca openpyxl para ler a planilha para dentro do pandas. Após manipular os dados com pandas transformamos essa tabela em HTML - esse HTML está dentro de um template e arquivo de estilização css -  utilizando a biblioteca Jinja2. A partir dai utilizamos outro pacote pdfkit que vai gerar um arquivo estilizado e por fim a bilbioteca pypdf para finalizar o layout ja pronto.
 
-![](img/NYC2.jpg)
+![](img_fluxo.jpg)
